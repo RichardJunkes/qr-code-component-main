@@ -4,7 +4,7 @@ Este é um pequeno projeto de um **componente de QR Code**, baseado em um desafi
 
 ## 🖥️ Demonstração
 
-🔗 **Acesse o site:** [https://richardjunkes.github.io/qr-code-project/](https://seu-usuario.github.io/qr-code-project/)
+🔗 **Acesse o site:** [https://richardjunkes.github.io/qr-code-component-main/](https://richardjunkes.github.io/qr-code-component-main/)
 
 ## 📂 Tecnologias Utilizadas
 
